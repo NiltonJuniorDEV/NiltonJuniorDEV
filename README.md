@@ -2,8 +2,8 @@
 
 - 🔭 Trabalhando atualmente com Suporte Técnico
 - 🌱 Aprendendo Front-End pela DIO.me e Back-end Python pela EBAC.
-- 😄 Pronouns: Ele/Dele
-- ⚡ Saindo do Designer Gráfico para programação!
+- 😄 Pronomes: Ele/Dele
+- ⚡ Saindo do Designer Gráfico para Programação!
 
 <div align="center">
   <a href="https://github.com/NiltonJuniorDEV">
