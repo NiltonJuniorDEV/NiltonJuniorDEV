@@ -1,7 +1,7 @@
 ### Olá! Bem vindo ao meu perfil. Nilton Junior, aqui! 😁
 
-- 🔭 Trabalhando atualmente com Suporte Técnico
-- 🌱 Aprendendo Front-End pela DIO.me e Back-end Python pela EBAC.
+- 🔭 Atualmente trabalhando como TikTok Content Moderator
+- 🌱 Cursnado Back-end Python pela EBAC / Análise e desenvolvimento de sistema pela Estácio
 - 😄 Pronomes: Ele/Dele
 - ⚡ Saindo do Designer Gráfico para Programação!
 
